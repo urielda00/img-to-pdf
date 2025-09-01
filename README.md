@@ -20,7 +20,7 @@ This project is a **client-side web application** that allows you to:
 
 ## 🚀 Usage
 
-1. Open `https://harmonious-mochi-d102df.netlify.app/` in your browser (no server required).
+1. Enter [Site Link](https://harmonious-mochi-d102df.netlify.app/) in your browser (no server required).
 2. Upload an image from your computer.
 3. Enter a file name (optional).
 4. Click **Convert and Save PDF**.
