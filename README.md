@@ -83,13 +83,16 @@ You can deploy the app easily with [Netlify Drop](https://app.netlify.com/drop):
 
 ## ⚖️ Comparison with Existing Apps
 
+
 | Feature / App            | Built-in iPhone (Files/Notes) | Adobe Scan | Microsoft Lens | CamScanner | Genius Scan | **This Website** |
 |--------------------------|-------------------------------|------------|----------------|------------|-------------|------------------|
 | 📥 Installation needed   | ❌ Built-in                   | ✅ Yes     | ✅ Yes         | ✅ Yes     | ✅ Yes      | ❌ No install |
 | 💰 Cost / Ads            | Free, no ads                  | Free + Account | Free | Free (ads, premium version) | Paid version for full features | Free, no ads |
 | 🛡️ Privacy               | Local on device               | Uploads to Adobe cloud | Can upload to OneDrive | Uploads to cloud, privacy concerns | Local but app-based | 100% Local in browser |
 | 🌐 Cross-platform        | iPhone only                   | iOS, Android | iOS, Android  | iOS, Android | iOS, Android | iOS, Android, Windows, Mac, Linux |
-| 🚀 Ease of use           | Medium (trick via Print)      | Medium (needs account) | Easy | Easy but f
+| 🚀 Ease of use           | Medium (trick via Print)      | Medium (needs account) | Easy | Easy but full of ads | Easy | **Very easy, 1 click** |
+
+---
 
 ## 👤 Author
 
